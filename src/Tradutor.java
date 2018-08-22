@@ -9,6 +9,7 @@ public class Tradutor {
 	
 	public boolean estaVazia() {
 		return (traducoes.isEmpty());
+		
 	}
 
 	public void adicionarTraducao(String palavra, String[] traducao) {
