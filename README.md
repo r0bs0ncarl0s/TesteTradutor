@@ -1,0 +1,2 @@
+# TesteTradutor
+Teste de Tradução
